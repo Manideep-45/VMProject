@@ -1,0 +1,13 @@
+button{
+    width: 80px;
+    height:40px;
+    border: none;
+    background-color: white;
+}
+button:active{
+    background-color: gray;
+    border:1px;
+}
+table{
+    background-color: cadetblue;
+}
